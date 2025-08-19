@@ -1,11 +1,3 @@
-Perfect — I’ll assume the keys are provided via a `.env` file.
-Here are the two files:
-
----
-
-** README.md**
-
-````markdown
 # Streamlit Memory Agent (Groq + Mem0)
 
 This is a simple Streamlit-based conversational agent that combines **Groq** LLM responses with persistent memory storage using the **Mem0** API.  
